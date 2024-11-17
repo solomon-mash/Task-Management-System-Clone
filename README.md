@@ -76,7 +76,7 @@ Contact.
 
 ### For any questions or feedback, please contact:
 
-GitHub: your-username
+GitHub: solomon-developer-tech
 
 
 
