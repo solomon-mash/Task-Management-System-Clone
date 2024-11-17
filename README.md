@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/c3025068-0add-43c7-b64b-2d2ac39a7083)
+![image](https://github.com/user-attachments/assets/2a35d014-b0db-48ec-aa40-0d2ca12aa148)
 
+### Still in Development.
 
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Technologies Used
 
 React.js: For building the UI.\
