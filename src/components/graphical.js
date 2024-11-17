@@ -46,25 +46,25 @@ const options = {
 
 
 const data2 = {
-    labels: ["Total Tasks 1234", "Running 800", "Pending 434"],
+    labels: ["Total Tasks 1220", "Running 7", "Pending 43"],
     datasets: [
       {
         label: "Total Tasks",
-        data: [1234, 20], 
+        data: [1220, 20], 
         backgroundColor: ["rgba(75, 192, 192, 1)", "rgba(255, 255, 255, 0)"],
         borderWidth: 0, 
         cutout: "80%",
       },
       {
         label: "Running Tasks",
-        data: [800, 35], 
+        data: [7, 35], 
         backgroundColor: ["rgba(255, 99, 132, 1)", "rgba(255, 255, 255, 0)"],
         borderWidth: 0,
         cutout: "65%",
       },
       {
         label: "Pending Tasks",
-        data: [434, 50], 
+        data: [43, 37], 
         backgroundColor: ["rgba(153, 102, 255, 1)", "rgba(255, 255, 255, 0)"],
         borderWidth: 0,
         cutout: "50%",

@@ -6,10 +6,10 @@ const TaskTimeline = () => {
   const [date, setDate] = useState(new Date());
 
   const tasks = [
-    { time: "10 AM", title: "Research", people: "03 People", color: "#1976d2" },
-    { time: "11 AM", title: "Landing Page Design", people: "03 People", color: "#d32f2f" },
-    { time: "12 PM", title: "Dashboard Design", people: "03 People", color: "#388e3c" },
-    { time: "1 PM", title: "Design Theory", people: "03 People", color: "#ffa000" },
+    { time: "10 AM", title: "Research",  color: "#1976d2" },
+    { time: "11 AM", title: "Landing Page Design",  color: "#d32f2f" },
+    { time: "12 PM", title: "Dashboard Design", color: "#388e3c" },
+    { time: "1 PM", title: "Design Theory", color: "#ffa000" },
   ];
 
   return (

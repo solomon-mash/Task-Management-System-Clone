@@ -11,7 +11,6 @@ const bottom = ()=>{
             <button> <div className='button-class'>
 
             <FontAwesomeIcon icon={faCirclePlus}  />
-            <p> Add New Task </p>
             </div></button>
             
             

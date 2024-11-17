@@ -13,8 +13,8 @@
       align-content: center;
       justify-content: center;
       color: white;
-     width: 65%;
-     height: auto;
+     width: 75%;
+     height: 60px;
      background-color: #8280ff;
      border-radius: 8px;
      
@@ -22,10 +22,7 @@
   .button-class{
     margin: 4px;
   }
-  .button-class p{
-    font-size: clamp(0.7rem, 1.5vw, 0.8rem);
-  
-  }
+
   .new_task:hover{
     background-color: #b3b2fc ;
   }
@@ -46,7 +43,7 @@
 }
 .user_card{
   padding: 2%;
-  width: 58%;
+  width: 75%;
   height: 4vh;
   border-radius: 8px;
   border-top-color: #edc4c0;
@@ -61,11 +58,13 @@
   text-align: center;
   margin: 2%;
   padding: 3%;
+  font-size: clamp(0.7rem, 1.5vw, 0.8rem);
+
 }
-@media(max-width: 868px){
+@media(max-width: 978px){
     .user_card{
         padding: 2%;
-  width: 100%;
+  width: 120%;
   height: 4vh;
   border-radius: 8px;
   border-top-color: #edc4c0;
@@ -85,7 +84,7 @@
           align-content: center;
           justify-content: center;
           color: white;
-         width: 100%;
+         width: 120%;
          height: auto;
          background-color: #8280ff;
          border-radius: 8px;
