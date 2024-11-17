@@ -1,6 +1,19 @@
+![image](https://github.com/user-attachments/assets/2a35d014-b0db-48ec-aa40-0d2ca12aa148)
+
+### Still in Development.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technologies Used
+
+React.js: For building the UI.\
+React Router: For navigation between different sections.\
+CSS/SCSS: For styling and responsiveness.\
+React Icons: For intuitive icons and better visual representation.\
+Redux (optional): For state management if your app scales.\
+Chart.js/React Chart.js 2 (optional): For visualizing task progress.
 
 ## Available Scripts
 
@@ -39,32 +52,31 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# Customization
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### To customize the design, update the following files:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Colors and Themes: src/styles/themes.css\
+Icons: Replace icons in src/assets/icons/.\
+Components: Modify reusable components in src/components/.
 
-### Code Splitting
+### Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Add user authentication for multi-user task management.\
+Integrate with a backend to save tasks persistently.\
+Add calendar view for scheduling tasks.\
 
-### Analyzing the Bundle Size
+### Contributions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+License.\
 
-### Making a Progressive Web App
+This project is licensed under the MIT License. See the LICENSE file for details.
+Contact.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### For any questions or feedback, please contact:
 
-### Advanced Configuration
+GitHub: solomon-developer-tech
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
