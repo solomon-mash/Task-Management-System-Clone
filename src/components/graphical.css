@@ -1,0 +1,80 @@
+.graphs-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 2%;
+    height: auto;
+    background-color: #efefef;
+    border-radius: 15px;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.total-work{
+    flex: 1 1 50%;
+    min-width: 100px;
+
+}
+.graph-head{
+    padding: 2%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.graph-body{
+    padding: 2%;
+    background-color: white;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    min-width: 150px;
+    margin: 2%;
+}
+.task-percentage{
+    flex: 1 1 50%;
+    min-width: 100px;
+
+}
+.taskpercent-titlebar{
+    padding: 2%;
+     text-align: center;
+}
+.spiral-graph{
+    padding: 2%;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    min-width: 150px;
+    margin: 2%;
+    background-color: white;
+    
+}
+
+#chart-header{
+    font-size: clamp(0.7rem, 1.5vw, 0.8rem);
+    font-weight: bold;
+}
+.chart-dropdowwn{
+    width: 10vw;
+    height: 4vh;
+}
+@media (max-width: 768px) {
+    .graphs-main {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .total-work {
+        width: 100%;
+        text-align: center;
+    }
+
+    .task-percentage {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+}

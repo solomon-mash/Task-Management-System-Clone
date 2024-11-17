@@ -1,0 +1,39 @@
+
+.app{
+  margin: 0;
+  display: flex;
+  height: auto;
+  background-color: #efefef;
+  border-radius: 8px;
+}
+
+ .main-content {
+  flex-grow: 1;
+  margin: 0%;
+  width: 100%;
+  
+}
+
+.dashboard-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 50%;
+  
+}
+
+.section {
+  height: 100%; 
+}
+.section-1 {
+  width: 20%;
+}
+.section-2 {
+  width: 60%;
+  
+
+}
+.section-3 {
+  width: 25%;
+}
+
