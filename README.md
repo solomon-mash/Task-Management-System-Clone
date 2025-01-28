@@ -1,19 +1,13 @@
 ![image](https://github.com/user-attachments/assets/2a35d014-b0db-48ec-aa40-0d2ca12aa148)
 
-### Still in Development.
+## Task Management User Interface clone
+- Still in Development.
 
+### Technologies Used
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# Technologies Used
-
-React.js: For building the UI.\
-React Router: For navigation between different sections.\
-CSS/SCSS: For styling and responsiveness.\
-React Icons: For intuitive icons and better visual representation.\
-Redux (optional): For state management if your app scales.\
-Chart.js/React Chart.js 2 (optional): For visualizing task progress.
+- React.js: For building the UI.
+- CSS: For styling and responsiveness.
+- Chart.js/React Chart.js 2 (optional): For visualizing task progress.
 
 ## Available Scripts
 
@@ -54,25 +48,26 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # Customization
 
-### To customize the design, update the following files:
+#### To customize the design, update the following files:
 
-Colors and Themes: src/styles/themes.css\
-Icons: Replace icons in src/assets/icons/.\
-Components: Modify reusable components in src/components/.
+- Colors and Themes: src/styles/themes.css.
+- Icons: Replace icons in src/assets/icons/.
+- Components: Modify reusable components in src/components/.
 
-### Future Enhancements
+# Future Enhancements
 
-Add user authentication for multi-user task management.\
-Integrate with a backend to save tasks persistently.\
-Add calendar view for scheduling tasks.\
+Add user authentication for multi-user task management.
+Integrate with a backend to save tasks persistently.
+Add calendar view for scheduling tasks.
 
-### Contributions
+# Contributions
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
-License.\
+## License.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-Contact.
+
+# Contact.
 
 ### For any questions or feedback, please contact:
 
